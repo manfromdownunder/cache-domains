@@ -123,6 +123,11 @@
 			"domain_files": ["wargaming.net.txt"]
 		},
 		{
+			"name": "wizardsofthecoast",
+			"description": "CDN for magic the gathering online",
+			"domain_files": ["wizardsofthecoast.txt"]
+		},
+		{
 			"name": "wsus",
 			"description": "CDN for windows updates",
 			"domain_files": ["windowsupdates.txt"]
