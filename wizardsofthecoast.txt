@@ -1,6 +1,5 @@
 mtgoclientdepot.onlinegaming.wizards.com
 media.magic.wizards.com
-a23-55-38-107.deploy.static.akamaitechnologies.com
 149.135.81.128
 149.135.81.171
 149.135.81.177
