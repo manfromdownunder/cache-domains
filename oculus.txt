@@ -1,0 +1,6 @@
+# Oculus
+#
+# Examples:
+# - edge-oculus-shv-01-hel3.fbcdn.net
+#
+edge-oculus-shv-*-*.fbcdn.net
