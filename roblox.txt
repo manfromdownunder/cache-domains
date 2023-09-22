@@ -1,1 +1,2 @@
 *.cachefly.net
+*.deploy.static.akamaitechnologies.com
