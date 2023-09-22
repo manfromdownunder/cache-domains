@@ -25,6 +25,11 @@
 			"description": "Daybreak games CDN",
 			"domain_files": ["daybreak.txt"]
 		},
+                {
+                        "name": "debian",
+                        "description": "CDN for Debian Linux",
+                        "domain_files": ["debian.txt"]
+                },
 		{
 			"name": "epicgames",
 			"description": "CDN for Epic Games",
@@ -50,6 +55,11 @@
 			"description": "CDN for Nintendo consoles and download servers",
 			"domain_files": ["nintendo.txt"]
 		},
+                {
+                        "name": "oculus",
+                        "description": "CDN for Oculus",
+                        "domain_files": ["oculus.txt"]
+                },
 		{
 			"name": "origin",
 			"description": "CDN for origin",
@@ -72,6 +82,11 @@
 			"description": "CDN for riot games",
 			"domain_files": ["riot.txt"]
 		},
+                {
+                        "name": "roblox",
+                        "description": "CDN for Roblox",
+                        "domain_files": ["roblox.txt"]
+                },
 		{
 			"name": "rockstar",
 			"description": "CDN for rockstar games",
