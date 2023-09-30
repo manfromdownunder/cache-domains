@@ -6,3 +6,6 @@ packages.linuxmint.com
 apt.pop-os.org
 archive.ubuntu.com
 ppa.launchpad.net
+download.docker.com
+*.ubuntu.com
+
