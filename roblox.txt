@@ -1,3 +1,6 @@
 *.cachefly.net
 *.deploy.static.akamaitechnologies.com
 *.rbxcdn.com
+*.hwcdn.net
+*.amazonaws.com
+*.cloudfront.net
