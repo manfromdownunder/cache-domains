@@ -14,3 +14,5 @@ ecsv2.roblox.com
 ephemeralcounters.api.roblox.com
 assetdelivery-split.roblox.com
 assetdelivery.roblox.com
+presence.roblox.com
+thumbnails.roblox.com
