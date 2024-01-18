@@ -3,3 +3,14 @@
 *.rbxcdn.com
 *.hwcdn.net
 *.cloudfront.net
+games.roblox.com
+titanium.roblox.com
+accountsettings.roblox.com
+apis.roblox.com
+gameinternationalization.roblox.com
+us-central-origin-px.roblox.com
+gold.roblox.com
+ecsv2.roblox.com
+ephemeralcounters.api.roblox.com
+assetdelivery-split.roblox.com
+assetdelivery.roblox.com
