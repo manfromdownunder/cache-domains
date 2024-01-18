@@ -5,6 +5,7 @@
 *.cloudfront.net
 *.cloudapp.azure.com
 *.akamaiedge.net
+*.akamai.net
 accountsettings.roblox.com
 apis.roblox.com
 assetdelivery-split.roblox.com
