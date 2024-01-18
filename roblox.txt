@@ -3,6 +3,7 @@
 *.rbxcdn.com
 *.hwcdn.net
 *.cloudfront.net
+*.cloudapp.azure.com
 accountsettings.roblox.com
 apis.roblox.com
 assetdelivery-split.roblox.com
