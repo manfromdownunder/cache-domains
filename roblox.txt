@@ -7,6 +7,7 @@ accountsettings.roblox.com
 apis.roblox.com
 assetdelivery-split.roblox.com
 assetdelivery.roblox.com
+assetgame.roblox.com
 auth.roblox.com
 avatar.roblox.com
 badges.roblox.com
@@ -20,6 +21,8 @@ friends.roblox.com
 gameinternationalization.roblox.com
 games.roblox.com
 gold.roblox.com
+groups.roblox.com
+inventory.roblox.com
 locale.roblox.com
 notifications.roblox.com
 presence.roblox.com
