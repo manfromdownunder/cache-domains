@@ -4,6 +4,7 @@
 *.hwcdn.net
 *.cloudfront.net
 *.cloudapp.azure.com
+*.akamaiedge.net
 accountsettings.roblox.com
 apis.roblox.com
 assetdelivery-split.roblox.com
@@ -13,6 +14,7 @@ auth.roblox.com
 avatar.roblox.com
 badges.roblox.com
 catalog.roblox.com
+clientsettingscdn.roblox.com.edgekey.net
 contacts.roblox.com
 economy.roblox.com
 ecsv2.roblox.com
