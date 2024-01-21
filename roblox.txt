@@ -25,7 +25,6 @@ friends.roblox.com
 gameinternationalization.roblox.com
 games.roblox.com
 gold.roblox.com
-groups.roblox.com
 inventory.roblox.com
 locale.roblox.com
 notifications.roblox.com
