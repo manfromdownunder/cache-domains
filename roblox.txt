@@ -1,11 +1,8 @@
 *.cachefly.net
-*.deploy.static.akamaitechnologies.com
 *.rbxcdn.com
 *.hwcdn.net
 *.cloudfront.net
 *.cloudapp.azure.com
-*.akamaiedge.net
-*.akamai.net
 accountsettings.roblox.com
 apis.roblox.com
 assetdelivery-split.roblox.com
